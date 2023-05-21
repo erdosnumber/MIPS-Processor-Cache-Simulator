@@ -20,6 +20,6 @@ make compile
 
 \<L2 associativity\> denotes the number of ways in the L2 cache.
 
-\<trace file\> denotes the name of the trace file on which the program needs to be executed, so it needs to be added to folder before execution.
+\<trace file\> denotes the name of the trace file on which the program needs to be executed, so it needs to be added to root directory before execution.
 
 All the above parameters need to be a power of 2.
