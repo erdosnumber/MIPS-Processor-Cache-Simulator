@@ -4,9 +4,13 @@ what is the miss rate at each of these caches and how many writebacks take place
 with the help of this simulation. This was done as a part of the course COL216 (Computer Architecture) in Semester 4 at IIT Delhi.
 
 # Compilation and execution
-Run the following commands for executing the program
+For compiling the program
 ```
 make compile
+```
+
+For running the executable
+```
 ./cache_simulate <blocksize> <L1 cache size> <L1 sssociativity> <L2 cache size> <L2 associativity> <trace file>
 ```
 
