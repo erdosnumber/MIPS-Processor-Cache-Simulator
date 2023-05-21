@@ -1,5 +1,5 @@
 # MIPS-Processor-Cache-Simulator
-This is a simulation of the cache structure of MIPS Processor (L1 and L2 Caches). We can get to know how many read and write misses occur at each of these caches,
+This is a simulation of the cache structure of MIPS Processor (L1 and L2 Caches) in C++. We can get to know how many read and write misses occur at each of these caches,
 what is the miss rate at each of these caches and how many writebacks take place from each cache while a processor executes a trace file (some samples of which are in the memory_trace_files folder)
 with the help of this simulation. This was done as a part of the course COL216 (Computer Architecture) in Semester 4 at IIT Delhi.
 
