@@ -11,10 +11,15 @@ make compile
 ```
 
 \<block size\> denotes the size of a block in L1 and L2 Caches.
+
 \<L1 cache size\> denotes the total size of the L1 cache.
+
 \<L1 associativity\> denotes the number of ways in the L1 cache.
+
 \<L2 cache size\> denotes the total size of the L2 cache.
+
 \<L2 associativity\> denotes the number of ways in the L2 cache.
+
 \<trace file\> denotes the name of the trace file on which the program needs to be executed, so it needs to be added to folder before execution.
 
 All the above parameters need to be a power of 2.
